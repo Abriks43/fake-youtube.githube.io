@@ -184,6 +184,8 @@
 				
 				opacity: 0;
 				transition: opacity 0.5s;
+
+				pointer-events: none;
 			}
 			.notifications-icon-container .tooltip,
 			.youtube-apps-icon-container .tooltip, .upload-icon-container .tooltip{
